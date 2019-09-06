@@ -1,0 +1,8 @@
+.sfdx/typings/lwc/apex.d.ts
+force.json
+sfdx-project.json
+.sfdx/typings/lwc/engine.d.ts
+.sfdx/typings/lwc/lds.d.ts
+.sfdx/typings/lwc/schema.d.ts
+.sfdx/typings/lwc/user.d.ts
+.vscode/settings.json
