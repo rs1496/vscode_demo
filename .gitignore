@@ -6,3 +6,6 @@ sfdx-project.json
 .sfdx/typings/lwc/schema.d.ts
 .sfdx/typings/lwc/user.d.ts
 .vscode/settings.json
+.sfdx/tools/apex.db
+.forceCode/s.c.ravi@accenture.com/settings.json
+.sfdx/typings/lwc/apex/BotController.d.ts
