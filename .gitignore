@@ -9,3 +9,5 @@ sfdx-project.json
 .sfdx/tools/apex.db
 .forceCode/s.c.ravi@accenture.com/settings.json
 .sfdx/typings/lwc/apex/BotController.d.ts
+.sfdx/sfdx-config.json
+.forceCode/s.c.ravi@accenture.com/.sfdx/sfdx-config.json
